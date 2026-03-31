@@ -36,7 +36,7 @@
   <link rel="stylesheet" href="style.css" />
 
   <style>
-    /* HEADER - explicit override to ensure correct styling */
+    /* HEADER */
     .top-bar { background: linear-gradient(90deg, #0f4c81, #005fa3) !important; padding: 14px 26px; display: flex; justify-content: space-between; align-items: center !important; box-shadow: 0 2px 8px rgba(0,0,0,0.1); position: sticky; top: 0; z-index: 1000; }
     .top-bar a { text-decoration: none; }
     .logo { color: #ffffff !important; font-weight: 600; font-size: 18px; }
@@ -45,167 +45,41 @@
     .main-nav a { color: #e6edf6 !important; font-size: 14px; font-weight: 500; }
     .main-nav a:hover { color: #ffffff !important; }
 
-    /* Page-specific styles */
-    .hero {
-      background: linear-gradient(135deg, #0f4c81, #2563eb);
-      color: #fff;
-      text-align: center;
-      padding: 60px 24px 50px;
-    }
-    .hero h1 {
-      font-size: 2.2rem;
-      font-weight: 700;
-      color: #fff;
-      margin-bottom: 14px;
-      letter-spacing: 0.3px;
-    }
-    .hero p {
-      font-size: 1.05rem;
-      color: rgba(255,255,255,0.88);
-      max-width: 640px;
-      margin: 0 auto 28px;
-    }
-    .hero-label {
-      display: inline-block;
-      background: rgba(255,255,255,0.15);
-      border: 1px solid rgba(255,255,255,0.3);
-      color: #fff;
-      font-size: 13px;
-      padding: 6px 14px;
-      border-radius: 20px;
-      margin-bottom: 20px;
-      letter-spacing: 0.5px;
-    }
-    .section-title {
-      text-align: center;
-      font-size: 1.4rem;
-      color: #1f2937;
-      margin: 48px 0 8px;
-      font-weight: 600;
-    }
-    .section-subtitle {
-      text-align: center;
-      font-size: 15px;
-      color: #6b7280;
-      margin-bottom: 28px;
-    }
-    .app-grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-      gap: 24px;
-      padding: 0 40px 50px;
-      max-width: 1100px;
-      margin: 0 auto;
-    }
-    .app-tile {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
-      gap: 10px;
-      padding: 32px 20px;
-      background: linear-gradient(135deg, #0f4c81, #2563eb);
-      color: #ffffff;
-      text-align: center;
-      font-size: 16px;
-      font-weight: 600;
-      border-radius: 12px;
-      text-decoration: none;
-      transition: 0.25s ease;
-      box-shadow: 0 8px 20px rgba(0,0,0,0.12);
-    }
-    .app-tile:hover {
-      transform: translateY(-4px);
-      box-shadow: 0 12px 30px rgba(0,0,0,0.2);
-    }
-    .app-tile .tile-icon {
-      width: 52px;
-      height: 52px;
-      object-fit: contain;
-    }
-    .about-section {
-      max-width: 900px;
-      margin: 0 auto 40px;
-      padding: 0 24px;
-    }
-    .about-tile {
-      background: #ffffff;
-      border-radius: 12px;
-      border: 1px solid #e5e7eb;
-      box-shadow: 0 6px 18px rgba(0,0,0,0.05);
-      padding: 36px;
-    }
-    .about-tile h2 {
-      font-size: 1.3rem;
-      color: #1f2937;
-      border-left: 4px solid #2563eb;
-      padding-left: 12px;
-      margin-bottom: 16px;
-    }
-    .about-tile p {
-      font-size: 15px;
-      color: #444;
-      margin-bottom: 14px;
-    }
-    .feature-grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-      gap: 16px;
-      margin-top: 24px;
-    }
-    .feature-card {
-      background: #f8fafc;
-      border: 1px solid #e5e7eb;
-      border-radius: 8px;
-      padding: 18px;
-    }
-    .feature-card h3 {
-      font-size: 0.95rem;
-      color: #1f2937;
-      margin-bottom: 6px;
-    }
-    .feature-card p {
-      font-size: 13px;
-      color: #6b7280;
-      margin: 0;
-    }
-    .faq-section {
-      max-width: 900px;
-      margin: 0 auto 48px;
-      padding: 0 24px;
-    }
-    .faq-section h2 {
-      font-size: 1.3rem;
-      color: #1f2937;
-      border-left: 4px solid #2563eb;
-      padding-left: 12px;
-      margin-bottom: 20px;
-      font-weight: 600;
-    }
-    .faq-item {
-      border-bottom: 1px solid #e5e7eb;
-      padding: 16px 0;
-    }
-    .faq-item h3 {
-      font-size: 15px;
-      color: #1f2937;
-      margin-bottom: 6px;
-      font-weight: 600;
-    }
-    .faq-item p {
-      font-size: 14px;
-      color: #555;
-      margin: 0;
-    }
-    #footerBar {
-      position: relative;
-      background: #f1f5f9;
-      color: #666;
-      font-size: 12px;
-      padding: 16px 18px;
-      border-top: 1px solid #e5e7eb;
-      text-align: center;
-    }
+    /* HERO */
+    .hero { background: linear-gradient(135deg, #0f4c81, #2563eb); color: #fff; text-align: center; padding: 60px 24px 50px; }
+    .hero h1 { font-size: 2.2rem; font-weight: 700; color: #fff; margin-bottom: 14px; letter-spacing: 0.3px; }
+    .hero p { font-size: 1.05rem; color: rgba(255,255,255,0.88); max-width: 640px; margin: 0 auto 28px; }
+    .hero-label { display: inline-block; background: rgba(255,255,255,0.15); border: 1px solid rgba(255,255,255,0.3); color: #fff; font-size: 13px; padding: 6px 14px; border-radius: 20px; margin-bottom: 20px; letter-spacing: 0.5px; }
+
+    /* SECTION TITLES */
+    .section-title { text-align: center; font-size: 1.4rem; color: #1f2937; margin: 48px 0 8px; font-weight: 600; }
+    .section-subtitle { text-align: center; font-size: 15px; color: #6b7280; margin-bottom: 28px; }
+
+    /* APP GRID */
+    .app-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 24px; padding: 0 40px 50px; max-width: 1100px; margin: 0 auto; }
+    .app-tile { display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 10px; padding: 32px 20px; background: linear-gradient(135deg, #0f4c81, #2563eb); color: #ffffff; text-align: center; font-size: 16px; font-weight: 600; border-radius: 12px; text-decoration: none; transition: 0.25s ease; box-shadow: 0 8px 20px rgba(0,0,0,0.12); }
+    .app-tile:hover { transform: translateY(-4px); box-shadow: 0 12px 30px rgba(0,0,0,0.2); }
+    .app-tile img { width: 52px; height: 52px; object-fit: contain; }
+
+    /* ABOUT */
+    .about-section { max-width: 900px; margin: 0 auto 40px; padding: 0 24px; }
+    .about-tile { background: #ffffff; border-radius: 12px; border: 1px solid #e5e7eb; box-shadow: 0 6px 18px rgba(0,0,0,0.05); padding: 36px; }
+    .about-tile h2 { font-size: 1.3rem; color: #1f2937; border-left: 4px solid #2563eb; padding-left: 12px; margin-bottom: 16px; }
+    .about-tile p { font-size: 15px; color: #444; margin-bottom: 14px; }
+    .feature-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 16px; margin-top: 24px; }
+    .feature-card { background: #f8fafc; border: 1px solid #e5e7eb; border-radius: 8px; padding: 18px; }
+    .feature-card h3 { font-size: 0.95rem; color: #1f2937; margin-bottom: 6px; }
+    .feature-card p { font-size: 13px; color: #6b7280; margin: 0; }
+
+    /* FAQ */
+    .faq-section { max-width: 900px; margin: 0 auto 48px; padding: 0 24px; }
+    .faq-section h2 { font-size: 1.3rem; color: #1f2937; border-left: 4px solid #2563eb; padding-left: 12px; margin-bottom: 20px; font-weight: 600; }
+    .faq-item { border-bottom: 1px solid #e5e7eb; padding: 16px 0; }
+    .faq-item h3 { font-size: 15px; color: #1f2937; margin-bottom: 6px; font-weight: 600; }
+    .faq-item p { font-size: 14px; color: #555; margin: 0; }
+
+    /* FOOTER */
+    #footerBar { position: relative; background: #f1f5f9; color: #666; font-size: 12px; padding: 16px 18px; border-top: 1px solid #e5e7eb; text-align: center; }
     #footerBar a { color: #2563eb; text-decoration: none; margin: 0 8px; }
     #footerBar a:hover { text-decoration: underline; }
   </style>
@@ -236,66 +110,23 @@
 
   <div class="app-grid">
     <a href="apps/office.html" class="app-tile">
-      <svg class="tile-icon" viewBox="0 0 52 52" xmlns="http://www.w3.org/2000/svg">
-        <rect x="2"  y="2"  width="22" height="22" rx="4" fill="#F25022"/>
-        <rect x="28" y="2"  width="22" height="22" rx="4" fill="#7FBA00"/>
-        <rect x="2"  y="28" width="22" height="22" rx="4" fill="#00A4EF"/>
-        <rect x="28" y="28" width="22" height="22" rx="4" fill="#FFB900"/>
-      </svg>
+      <img src="images/microsoft365.png" alt="Microsoft 365 logo" />
       Microsoft 365
     </a>
     <a href="apps/edge.html" class="app-tile">
-      <svg class="tile-icon" viewBox="0 0 52 52" xmlns="http://www.w3.org/2000/svg">
-        <defs>
-          <radialGradient id="edgeGrad" cx="50%" cy="60%" r="60%">
-            <stop offset="0%" stop-color="#36C4F0"/>
-            <stop offset="100%" stop-color="#0078D4"/>
-          </radialGradient>
-        </defs>
-        <ellipse cx="26" cy="30" rx="22" ry="18" fill="url(#edgeGrad)"/>
-        <path d="M10 22 Q14 6 30 8 Q42 10 44 22 Q36 16 24 18 Q14 20 10 30 Z" fill="#1BA1E2"/>
-        <path d="M8 32 Q10 44 22 47 Q34 50 42 42 Q34 46 26 44 Q14 40 8 32 Z" fill="#0A5EA8"/>
-        <ellipse cx="34" cy="34" rx="10" ry="6" fill="#36C4F0" opacity="0.5"/>
-      </svg>
+      <img src="images/edge.png" alt="Microsoft Edge logo" />
       Microsoft Edge
     </a>
     <a href="apps/chrome.html" class="app-tile">
-      <svg class="tile-icon" viewBox="0 0 52 52" xmlns="http://www.w3.org/2000/svg">
-        <circle cx="26" cy="26" r="24" fill="#EA4335"/>
-        <path d="M26 26 L50 26 A24 24 0 0 1 38 46.78 Z" fill="#34A853"/>
-        <path d="M26 26 L38 46.78 A24 24 0 0 1 14 46.78 Z" fill="#FBBC05"/>
-        <circle cx="26" cy="26" r="11" fill="white"/>
-        <circle cx="26" cy="26" r="8.5" fill="#4285F4"/>
-      </svg>
+      <img src="images/chrome.png" alt="Google Chrome logo" />
       Google Chrome
     </a>
     <a href="apps/mozila.html" class="app-tile">
-      <svg class="tile-icon" viewBox="0 0 52 52" xmlns="http://www.w3.org/2000/svg">
-        <defs>
-          <radialGradient id="ffGlobe" cx="40%" cy="40%" r="60%">
-            <stop offset="0%" stop-color="#20BCFC"/>
-            <stop offset="100%" stop-color="#0060DF"/>
-          </radialGradient>
-        </defs>
-        <circle cx="26" cy="28" r="20" fill="url(#ffGlobe)"/>
-        <path d="M26 8 C18 10 10 16 8 26 C14 20 20 18 26 20 C32 18 38 20 44 26 C42 16 34 10 26 8 Z" fill="#FF6611"/>
-        <path d="M12 36 C14 44 20 50 28 50 C36 50 44 44 44 36 C38 40 32 42 26 40 C20 42 14 40 12 36 Z" fill="#FF6611"/>
-        <path d="M26 8 C30 12 34 18 34 26 C34 32 30 38 26 40 C22 38 18 32 18 26 C18 18 22 12 26 8 Z" fill="#FF980A" opacity="0.6"/>
-      </svg>
+      <img src="images/firefox.png" alt="Mozilla Firefox logo" />
       Mozilla Firefox
     </a>
     <a href="apps/citrix.html" class="app-tile">
-      <svg class="tile-icon" viewBox="0 0 52 52" xmlns="http://www.w3.org/2000/svg">
-        <circle cx="26" cy="12" r="6" fill="white"/>
-        <circle cx="12" cy="30" r="6" fill="white"/>
-        <circle cx="40" cy="30" r="6" fill="white"/>
-        <circle cx="18" cy="46" r="6" fill="white"/>
-        <circle cx="34" cy="46" r="6" fill="white"/>
-        <line x1="26" y1="18" x2="14" y2="25" stroke="white" stroke-width="2.5"/>
-        <line x1="26" y1="18" x2="38" y2="25" stroke="white" stroke-width="2.5"/>
-        <line x1="13" y1="36" x2="18" y2="40" stroke="white" stroke-width="2.5"/>
-        <line x1="39" y1="36" x2="34" y2="40" stroke="white" stroke-width="2.5"/>
-      </svg>
+      <img src="images/citrix.png" alt="Citrix logo" />
       Citrix
     </a>
   </div>
@@ -331,27 +162,22 @@
   <!-- FAQ SECTION -->
   <section class="faq-section">
     <h2>Frequently Asked Questions</h2>
-
     <div class="faq-item">
       <h3>What are ADMX files?</h3>
       <p>ADMX files are XML-based Administrative Template files used by Windows Group Policy to define configurable settings for operating systems and applications. They replaced the older ADM format and are used with tools like the Group Policy Management Console (GPMC) and Microsoft Intune.</p>
     </div>
-
     <div class="faq-item">
       <h3>Who is ADMX Guide for?</h3>
       <p>ADMX Guide is designed for IT professionals, system administrators, security engineers, and anyone who manages Windows environments using Group Policy or Microsoft Intune. It is also useful for auditors who need to review policy configurations.</p>
     </div>
-
     <div class="faq-item">
       <h3>Is ADMX Guide affiliated with Microsoft?</h3>
       <p>No. ADMX Guide is an independent, community-built reference platform. It is not affiliated with, endorsed by, or sponsored by Microsoft or any other company whose products are referenced on this site.</p>
     </div>
-
     <div class="faq-item">
       <h3>How do I use these policies with Microsoft Intune?</h3>
       <p>Policies listed on ADMX Guide can be deployed via Intune using either the Settings Catalog or custom OMA-URI configurations. The registry path shown for each policy corresponds directly to the OMA-URI path used in Intune custom profiles.</p>
     </div>
-
     <div class="faq-item">
       <h3>How often is the content updated?</h3>
       <p>We aim to keep policy definitions up to date with the latest ADMX template releases from Microsoft and other vendors. If you spot an outdated or incorrect entry, please use our <a href="contact.html">Contact page</a> to let us know.</p>
