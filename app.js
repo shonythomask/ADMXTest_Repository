@@ -30,10 +30,23 @@ document.addEventListener("DOMContentLoaded", () => {
 
 function loadPolicies() {
 
-  fetch(`${DATA_PATH}/policies.json`)
+  // Step 1 — fetch the manifest to discover the canonical version
+  fetch(`${DATA_PATH}/manifest.json`)
     .then(res => {
-      if (!res.ok) throw new Error("Failed to load policies.json");
+      if (!res.ok) throw new Error("Failed to load manifest.json");
       return res.json();
+    })
+    .then(manifest => {
+
+      const version = manifest.canonical || "default";
+
+      // Step 2 — fetch the canonical version's policies.json
+      return fetch(`${DATA_PATH}/${version}/policies.json`)
+        .then(res => {
+          if (!res.ok) throw new Error(`Failed to load policies.json for version "${version}"`);
+          return res.json();
+        });
+
     })
     .then(data => {
 
@@ -533,7 +546,7 @@ ${currentPolicy.description}`;
 
   }
 
-  navigator.clipboard.writeText(text);
+  navigator.clipboard.writeText(text).catch(err => console.warn("Copy failed:", err));
 
 }
 
