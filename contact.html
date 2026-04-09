@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <meta name="description" content="Contact ADMX Guide – get in touch to report errors, suggest new applications, or ask questions about our ADMX policy reference platform."/>
+  <title>Contact | ADMX Guide</title>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6663820968997362" crossorigin="anonymous"></script>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: "Segoe UI", Arial, sans-serif; background: #f8fafc; color: #1a1a1a; line-height: 1.7; -webkit-font-smoothing: antialiased; }
+
+    /* HEADER */
+    .top-bar { background: linear-gradient(90deg, #0f4c81, #005fa3); padding: 14px 26px; display: flex; justify-content: space-between; align-items: center; box-shadow: 0 2px 8px rgba(0,0,0,0.1); position: sticky; top: 0; z-index: 1000; }
+    .top-bar a { text-decoration: none; }
+    .logo { color: #ffffff; font-weight: 600; font-size: 18px; }
+    .logo:hover { opacity: 0.9; }
+    .main-nav { display: flex; gap: 22px; }
+    .main-nav a { color: #e6edf6; font-size: 14px; font-weight: 500; }
+    .main-nav a:hover { color: #ffffff; }
+
+    /* CONTENT */
+    .container { max-width: 680px; margin: 48px auto; padding: 0 24px 64px; }
+    h1 { font-size: 2rem; margin-bottom: 12px; color: #1f2937; font-weight: 600; }
+    p { margin-bottom: 16px; font-size: 15px; color: #333; }
+    a { color: #2563eb; }
+
+    /* FORM */
+    .contact-box { background: #fff; border: 1px solid #e5e7eb; border-radius: 10px; padding: 32px; margin-top: 32px; box-shadow: 0 6px 18px rgba(0,0,0,0.05); }
+    .contact-box h2 { font-size: 1.1rem; margin-bottom: 16px; color: #1f2937; border-left: 4px solid #2563eb; padding-left: 10px; font-weight: 600; }
+    label { display: block; font-size: 0.9rem; font-weight: 600; margin-bottom: 6px; color: #444; }
+    input, textarea, select { width: 100%; padding: 10px 14px; border: 1px solid #d1d5db; border-radius: 6px; font-size: 0.95rem; font-family: inherit; margin-bottom: 18px; background: #fafafa; }
+    input:focus, textarea:focus, select:focus { outline: none; border-color: #2563eb; box-shadow: 0 0 0 2px rgba(37,99,235,0.15); background: #fff; }
+    textarea { height: 130px; resize: vertical; }
+    .btn { background: linear-gradient(90deg, #2563eb, #1d4ed8); color: #fff; border: none; padding: 12px 28px; border-radius: 6px; font-size: 1rem; cursor: pointer; font-family: inherit; font-weight: 500; box-shadow: 0 4px 12px rgba(37,99,235,0.25); }
+    .btn:hover { transform: translateY(-1px); }
+    .note { font-size: 12px; color: #888; margin-top: 16px; }
+    #success-msg { display: none; background: #e6f4ea; border: 1px solid #a8d5b5; color: #2d6a4f; padding: 16px; border-radius: 6px; margin-top: 16px; }
+
+    /* FOOTER */
+    footer { text-align: center; padding: 24px; font-size: 12px; color: #666; background: #f1f5f9; border-top: 1px solid #e5e7eb; margin-top: 48px; }
+  </style>
+</head>
+<body>
+
+<div class="top-bar">
+  <a class="logo" href="index.html">ADMX Guide</a>
+  <nav class="main-nav">
+    <a href="index.html">Home</a>
+    <a href="about.html">About</a>
+    <a href="contact.html">Contact</a>
+    <a href="privacy-policy.html">Privacy Policy</a>
+  </nav>
+</div>
+
+<div class="container">
+  <h1>Contact Us</h1>
+  <p>Have a question, spotted an error in a policy definition, or want to suggest a new application? We'd love to hear from you.</p>
+
+  <div class="contact-box">
+    <h2>Send a Message</h2>
+
+    <form id="contact-form" action="https://formspree.io/f/xeepwnpv" method="POST">
+
+      <label for="name">Your Name</label>
+      <input type="text" id="name" name="name" placeholder="e.g. John Smith" required />
+
+      <label for="email">Your Email Address</label>
+      <input type="email" id="email" name="email" placeholder="e.g. john@example.com" required />
+
+      <label for="subject">Subject</label>
+      <select id="subject" name="subject">
+        <option value="error">Report an error in a policy</option>
+        <option value="suggestion">Suggest a new application</option>
+        <option value="general">General question</option>
+        <option value="other">Other</option>
+      </select>
+
+      <label for="message">Message</label>
+      <textarea id="message" name="message" placeholder="Describe your question or feedback..." required></textarea>
+
+      <button type="submit" class="btn">Send Message</button>
+    </form>
+
+    <div id="success-msg">✅ Thanks for your message! We'll get back to you as soon as possible.</div>
+    <p class="note">We typically respond within 2–3 business days. Your email will not be shared with third parties.</p>
+  </div>
+</div>
+
+
+<!-- Ad Side bar -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-6663820968997362"
+     data-ad-slot="5209346297"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<footer>
+  ADMX Guide – Administrative Template Reference | Microsoft, Windows, and related names are trademarks of Microsoft Corporation. This site is independent and not affiliated with or endorsed by Microsoft.
+</footer>
+
+<script>
+  const form = document.getElementById('contact-form');
+  form.addEventListener('submit', async function(e) {
+    e.preventDefault();
+    const data = new FormData(form);
+    const res = await fetch(form.action, { method: 'POST', body: data, headers: { 'Accept': 'application/json' } });
+    if (res.ok) {
+      form.style.display = 'none';
+      document.getElementById('success-msg').style.display = 'block';
+    }
+  });
+</script>
+
+</body>
+</html>
