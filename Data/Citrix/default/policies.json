@@ -49,7 +49,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_Enable_SignOutOnSessionDisconnect",
@@ -80,7 +80,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_EnableICAClient",
@@ -125,7 +125,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_ExtraURLProtocols",
@@ -155,7 +155,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Storefronts",
@@ -188,7 +188,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Storefronts_TrustedAccounts",
@@ -221,7 +221,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_SSLLockdown",
@@ -469,7 +469,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_ConfigureClientSelectiveTrust_x86",
@@ -543,7 +543,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_ConfigureClientSelectiveTrust_x64",
@@ -617,7 +617,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_ClientAutoReconnect",
@@ -677,7 +677,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_TransportProtocal",
@@ -729,7 +729,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_ProxyLockdown",
@@ -842,7 +842,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_AltProxyLockdown",
@@ -969,7 +969,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_ProxySocks",
@@ -1045,7 +1045,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_ProxyAuthentication",
@@ -1127,7 +1127,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_Smartcard",
@@ -1187,7 +1187,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_KerberosLockdown",
@@ -1244,7 +1244,7 @@
         ]
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_SSONForNSG",
@@ -1275,7 +1275,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_EnableRCG",
@@ -1306,7 +1306,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_DisableAllFTAStubCreation",
@@ -1337,7 +1337,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_DisablePersistentCookies",
@@ -1368,7 +1368,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_LocalCredentialsLockdown",
@@ -1480,7 +1480,7 @@
         ]
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_WITicket",
@@ -1531,7 +1531,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_EnableDriveMapping",
@@ -1590,7 +1590,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_EnablePrinterMapping",
@@ -1621,7 +1621,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_LocalPort",
@@ -1721,7 +1721,7 @@
         ]
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_ImageCapture",
@@ -1752,7 +1752,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_AudioInput",
@@ -1798,7 +1798,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_Clipboard",
@@ -1829,7 +1829,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_DragDrop",
@@ -1860,7 +1860,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_USB_PNP_Devices",
@@ -1891,7 +1891,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_PointOfSales",
@@ -1922,7 +1922,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_Foreground_Progress_Bar",
@@ -1949,7 +1949,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_HWacceleration",
@@ -1980,7 +1980,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_EnableH265",
@@ -2011,7 +2011,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_Audio",
@@ -2123,7 +2123,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_Graphics",
@@ -2266,7 +2266,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_Display",
@@ -2371,7 +2371,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_DPI",
@@ -2436,7 +2436,7 @@
         ]
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_LocalAppAccess",
@@ -2518,7 +2518,7 @@
         ]
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_Keyboard_Hotkeys",
@@ -4526,7 +4526,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_Keyboard_Settings",
@@ -4628,7 +4628,7 @@
         ]
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_IME_Settings",
@@ -4693,7 +4693,7 @@
         ]
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_PublishedApplications",
@@ -4738,7 +4738,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_SleepInhibit",
@@ -4789,7 +4789,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_HostRenderedAudio",
@@ -4820,7 +4820,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_BidirectionalContentRedirection",
@@ -4898,7 +4898,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_BidirectionalContentRedirectionOverrides",
@@ -4940,7 +4940,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_OAuthRedirection",
@@ -5014,7 +5014,7 @@
         ]
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_ICAFileSettings",
@@ -5051,7 +5051,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_LegacyDesktopViewer_Machine",
@@ -5082,7 +5082,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_DesktopViewerToolbarOptions_Machine",
@@ -5203,7 +5203,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_MSISettings",
@@ -5234,7 +5234,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_EngineErrMsg",
@@ -5265,7 +5265,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Polciy_CEIP",
@@ -5296,7 +5296,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Polciy_CEIP_Configuration",
@@ -5358,7 +5358,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_AlwaysOn",
@@ -5389,7 +5389,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_FedRAMP",
@@ -5420,7 +5420,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_EnableFTU",
@@ -5451,7 +5451,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_EnableSilentAuthForCloudStore",
@@ -5482,7 +5482,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_EnableQuickDesktopLaunch",
@@ -5513,7 +5513,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_EnableEmptyInitialProgramLaunchRestriction",
@@ -5544,7 +5544,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_EnableEmptyInitialProgramLaunchRestriction_1",
@@ -5575,7 +5575,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_EnableDesktopLock_ForAllStandardUsers",
@@ -5606,7 +5606,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_EnableDesktopLock_ForUser",
@@ -5637,7 +5637,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_EnableCwaToCsaSso_Machine",
@@ -5668,7 +5668,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_EnableCwaToCsaSso_User",
@@ -5699,7 +5699,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_AllowDesktopLockOnMachine",
@@ -5730,7 +5730,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_BlockDirectICAFileLaunches",
@@ -5761,7 +5761,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_BlockDirectICAFileLaunches_1",
@@ -5792,7 +5792,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_EnableNPS",
@@ -5823,7 +5823,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_HideConfigChecker",
@@ -5855,7 +5855,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_HideSupportInfo",
@@ -5887,7 +5887,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_HideDeletePassword",
@@ -5919,7 +5919,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_HideDataCollection",
@@ -5951,7 +5951,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_HideLocalKeyboardLayoutSetting",
@@ -5983,7 +5983,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_HideDPIsettings",
@@ -6015,7 +6015,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_HideConnectionCenter",
@@ -6047,7 +6047,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_HideAdvancedPreferences",
@@ -6079,7 +6079,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_HideTroubleshooting",
@@ -6111,7 +6111,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_HideSendFeedback",
@@ -6143,7 +6143,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_HideCitrixFiles",
@@ -6175,7 +6175,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_HideCitrixCasting",
@@ -6207,7 +6207,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_Vprefer",
@@ -6268,7 +6268,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_EnableFTA",
@@ -6299,7 +6299,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_EnableDefaultFTA",
@@ -6330,7 +6330,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_HideSettings",
@@ -6383,7 +6383,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_SelfServiceMode_Enable",
@@ -6414,7 +6414,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_PublishSafeContent",
@@ -6459,7 +6459,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_PublishUnsafeContent",
@@ -6504,7 +6504,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_EnableAppShortCut",
@@ -6711,7 +6711,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_AddAccounts",
@@ -6742,7 +6742,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_EnablePreLaunch",
@@ -6773,7 +6773,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_ReconnectMode",
@@ -6916,7 +6916,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_FastConnectAPI_Support",
@@ -6995,7 +6995,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_EnableAutoUpdatePolicy",
@@ -7088,7 +7088,7 @@
         ]
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_CheckAutoUpdatePolicy",
@@ -7140,7 +7140,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_AutoUpdateSchedulerPolicy",
@@ -7187,7 +7187,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_AutoUpdateVersionControlPolicy",
@@ -7241,7 +7241,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_EngineErrMsg_1",
@@ -7272,7 +7272,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_EnableICAClient_1",
@@ -7317,7 +7317,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_SSLLockdown_1",
@@ -7565,7 +7565,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_ConfigureClientSelectiveTrust_1",
@@ -7602,7 +7602,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_ClientAutoReconnect_1",
@@ -7662,7 +7662,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_ProxyLockdown_1",
@@ -7775,7 +7775,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_AltProxyLockdown_1",
@@ -7896,7 +7896,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_ProxySocks_1",
@@ -7972,7 +7972,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_ProxyAuthentication_1",
@@ -8054,7 +8054,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_Smartcard_1",
@@ -8114,7 +8114,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_KerberosLockdown_1",
@@ -8163,7 +8163,7 @@
         ]
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_DisablePersistentCookies_1",
@@ -8194,7 +8194,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_LocalCredentialsLockdown_1",
@@ -8288,7 +8288,7 @@
         ]
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_WITicket_1",
@@ -8339,7 +8339,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_SmartcardRemovalAction_x86",
@@ -8370,7 +8370,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_SmartcardRemovalAction_AMD64",
@@ -8401,7 +8401,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_EnableDriveMapping_1",
@@ -8460,7 +8460,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_EnablePrinterMapping_1",
@@ -8491,7 +8491,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_LocalPort_1",
@@ -8591,7 +8591,7 @@
         ]
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_ImageCapture_1",
@@ -8622,7 +8622,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_AudioInput_1",
@@ -8668,7 +8668,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_Clipboard_1",
@@ -8699,7 +8699,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_DragDrop_1",
@@ -8730,7 +8730,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_USB_PNP_Devices_1",
@@ -8761,7 +8761,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_PointOfSales_1",
@@ -8792,7 +8792,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_Audio_1",
@@ -8904,7 +8904,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_Graphics_1",
@@ -9047,7 +9047,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_Display_1",
@@ -9152,7 +9152,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_LocalAppAccess_1",
@@ -9234,7 +9234,7 @@
         ]
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_Keyboard_Hotkeys_1",
@@ -11242,7 +11242,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_Keyboard_Settings_1",
@@ -11344,7 +11344,7 @@
         ]
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_IME_Settings_1",
@@ -11409,7 +11409,7 @@
         ]
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_ToggleFullScreen",
@@ -11528,7 +11528,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_PublishedApplications_1",
@@ -11573,7 +11573,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_SleepInhibit_1",
@@ -11624,7 +11624,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_HostRenderedAudio_1",
@@ -11655,7 +11655,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_ICAFileSettings_1",
@@ -11692,7 +11692,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_AllowLegacySessionSharing",
@@ -11729,7 +11729,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_LegacyDesktopViewer_User",
@@ -11760,7 +11760,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_DesktopViewerToolbarOptions_User",
@@ -11881,7 +11881,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_ManageCsiNotifications",
@@ -11912,7 +11912,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_MSISettings_1",
@@ -11943,7 +11943,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_PoPSurvey",
@@ -12112,7 +12112,7 @@
         ]
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "EnableICAFileSigning",
@@ -12454,7 +12454,7 @@
         ]
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "POL_CONFIGURE_LAN_PROXY_MANUALLY",
@@ -12539,7 +12539,7 @@
         ]
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "POL_CONFIGURE_LAN_PROXY_DLL",
@@ -12600,7 +12600,7 @@
         ]
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "DeviceRules",
@@ -12632,7 +12632,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "ExistingDevices_Policy",
@@ -12685,7 +12685,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "NewDevices_Policy",
@@ -12738,7 +12738,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "HideSimpleDevices_Policy",
@@ -12776,7 +12776,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "ExistingDevices_Policy_1",
@@ -12829,7 +12829,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "NewDevices_Policy_1",
@@ -12882,7 +12882,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "HideSimpleDevices_Policy_1",
@@ -12920,7 +12920,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "RemoveOnLock",
@@ -12952,7 +12952,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "RedirectUnknownDevices",
@@ -12984,7 +12984,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "EnableUSBForceRedirection",
@@ -13016,7 +13016,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "SplitDevices",
@@ -13048,7 +13048,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_CitrixSecureBrowser_Cache",
@@ -13079,7 +13079,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_AppProtectionAuthMan",
@@ -13130,7 +13130,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_AppProtectionSSP",
@@ -13181,7 +13181,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_StoreAuthenticationTokens",
@@ -13212,7 +13212,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_Enable_EdgeChromium",
@@ -13243,7 +13243,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_Enable_AllowSingleSignOnForEdgeWebView",
@@ -13274,7 +13274,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_ShowDisabledShortcuts",
@@ -13305,7 +13305,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_GlobalAppConfigService",
@@ -13364,7 +13364,7 @@
         ]
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_GACSDiscoveryRegion",
@@ -13409,7 +13409,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_LocalAppDiscovery",
@@ -13452,7 +13452,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_LocalAppProtection",
@@ -13481,7 +13481,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_EnableAntiDLLInjection",
@@ -13547,7 +13547,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_AntiDLLModuleAllowList",
@@ -13577,7 +13577,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_USBFilterDriverExclusionList",
@@ -13606,7 +13606,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_BlockDoubleHopLaunch",
@@ -13637,7 +13637,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_CEBAvailableOutsideCWA",
@@ -13668,7 +13668,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_CEBAvailableOutsideCWA_1",
@@ -13699,7 +13699,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_ScreenCaptureNotification",
@@ -13730,7 +13730,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Policy_InSessionReconnect",
@@ -13761,7 +13761,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     }
   ]
 }

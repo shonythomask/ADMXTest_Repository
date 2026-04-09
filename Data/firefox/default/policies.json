@@ -30,7 +30,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Authentication_SPNEGO",
@@ -62,7 +62,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Authentication_Delegated",
@@ -94,7 +94,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Authentication_NTLM",
@@ -126,7 +126,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Authentication_AllowNonFQDN",
@@ -176,7 +176,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Authentication_AllowProxies",
@@ -226,7 +226,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Authentication_Locked",
@@ -256,7 +256,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Authentication_PrivateBrowsing",
@@ -286,7 +286,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "BlockAboutAddons",
@@ -315,7 +315,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "BlockAboutConfig",
@@ -344,7 +344,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "BlockAboutProfiles",
@@ -373,7 +373,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "BlockAboutSupport",
@@ -402,7 +402,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "CaptivePortal",
@@ -431,7 +431,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Certificates_ImportEnterpriseRoots",
@@ -461,7 +461,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Certificates_Install",
@@ -493,7 +493,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Cookies_Allow",
@@ -525,7 +525,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Cookies_AllowSession",
@@ -557,7 +557,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Cookies_Block",
@@ -589,7 +589,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Cookies_Default",
@@ -619,7 +619,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Cookies_AcceptThirdParty",
@@ -670,7 +670,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Cookies_ExpireAtSessionEnd",
@@ -700,7 +700,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Cookies_RejectTracker",
@@ -730,7 +730,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Cookies_Locked",
@@ -760,7 +760,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Cookies_Behavior",
@@ -832,7 +832,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Cookies_BehaviorPrivateBrowsing",
@@ -904,7 +904,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Camera_Allow",
@@ -937,7 +937,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Camera_Block",
@@ -970,7 +970,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Camera_BlockNewRequests",
@@ -1001,7 +1001,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Camera_Locked",
@@ -1032,7 +1032,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Microphone_Allow",
@@ -1065,7 +1065,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Microphone_Block",
@@ -1098,7 +1098,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Microphone_BlockNewRequests",
@@ -1129,7 +1129,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Microphone_Locked",
@@ -1160,7 +1160,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Location_Allow",
@@ -1193,7 +1193,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Location_Block",
@@ -1226,7 +1226,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Location_BlockNewRequests",
@@ -1257,7 +1257,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Location_Locked",
@@ -1288,7 +1288,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Notifications_Allow",
@@ -1321,7 +1321,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Notifications_Block",
@@ -1354,7 +1354,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Notifications_BlockNewRequests",
@@ -1385,7 +1385,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Notifications_Locked",
@@ -1416,7 +1416,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Autoplay_Allow",
@@ -1449,7 +1449,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Autoplay_Block",
@@ -1482,7 +1482,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Autoplay_Locked",
@@ -1513,7 +1513,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Autoplay_Default",
@@ -1565,7 +1565,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "VirtualReality_Allow",
@@ -1598,7 +1598,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "VirtualReality_Block",
@@ -1631,7 +1631,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "VirtualReality_BlockNewRequests",
@@ -1662,7 +1662,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "VirtualReality_Locked",
@@ -1693,7 +1693,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "ScreenShare_Allow",
@@ -1726,7 +1726,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "ScreenShare_Block",
@@ -1759,7 +1759,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "ScreenShare_BlockNewRequests",
@@ -1790,7 +1790,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "ScreenShare_Locked",
@@ -1821,7 +1821,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "DefaultDownloadDirectory",
@@ -1850,7 +1850,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "DownloadDirectory",
@@ -1879,7 +1879,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "DNSOverHTTPS_Enabled",
@@ -1909,7 +1909,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "DNSOverHTTPS_ProviderURL",
@@ -1939,7 +1939,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "DNSOverHTTPS_Locked",
@@ -1969,7 +1969,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "DNSOverHTTPS_ExcludedDomains",
@@ -2001,7 +2001,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "DNSOverHTTPS_Fallback",
@@ -2031,7 +2031,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "DisableAppUpdate",
@@ -2060,7 +2060,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "DisableBuiltinPDFViewer",
@@ -2089,7 +2089,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "DisableDefaultBrowserAgent",
@@ -2118,7 +2118,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "DisableDeveloperTools",
@@ -2147,7 +2147,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "DisableFeedbackCommands",
@@ -2176,7 +2176,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "DisableFirefoxAccounts",
@@ -2205,7 +2205,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "DisableFirefoxScreenshots",
@@ -2234,7 +2234,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "DisableFirefoxStudies",
@@ -2263,7 +2263,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "DisableForgetButton",
@@ -2292,7 +2292,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "DisableFormHistory",
@@ -2321,7 +2321,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "HardwareAcceleration",
@@ -2350,7 +2350,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "DisableMasterPasswordCreation",
@@ -2379,7 +2379,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "DisablePasswordReveal",
@@ -2408,7 +2408,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "DisablePocket",
@@ -2437,7 +2437,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "DisablePrivateBrowsing",
@@ -2466,7 +2466,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "DisableProfileImport",
@@ -2495,7 +2495,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "DisableProfileRefresh",
@@ -2524,7 +2524,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "DisableSafeMode",
@@ -2553,7 +2553,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "DisableSetDesktopBackground",
@@ -2582,7 +2582,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "DisableSystemAddonUpdate",
@@ -2611,7 +2611,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "DisableTelemetry",
@@ -2640,7 +2640,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "DisplayBookmarksToolbar",
@@ -2669,7 +2669,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "DisplayBookmarksToolbar_Enum",
@@ -2719,7 +2719,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "DisplayMenuBar",
@@ -2748,7 +2748,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "DisplayMenuBar_Enum",
@@ -2805,7 +2805,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Extensions_Install",
@@ -2837,7 +2837,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Extensions_Uninstall",
@@ -2869,7 +2869,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Extensions_Locked",
@@ -2901,7 +2901,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "ExtensionSettings",
@@ -2930,7 +2930,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "ExtensionSettingsOneLine",
@@ -2961,7 +2961,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "NoDefaultBookmarks",
@@ -2990,7 +2990,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "DontCheckDefaultBrowser",
@@ -3019,7 +3019,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "ExtensionUpdate",
@@ -3049,7 +3049,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "LegacyProfiles",
@@ -3078,7 +3078,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "LegacySameSiteCookieBehaviorEnabled",
@@ -3107,7 +3107,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "LegacySameSiteCookieBehaviorEnabledForDomainList",
@@ -3138,7 +3138,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "LocalFileLinks",
@@ -3169,7 +3169,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "NetworkPrediction",
@@ -3198,7 +3198,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "NewTabPage",
@@ -3227,7 +3227,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "OfferToSaveLogins",
@@ -3256,7 +3256,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "OfferToSaveLoginsDefault",
@@ -3285,7 +3285,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "PopupBlocking_Allow",
@@ -3317,7 +3317,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "PopupBlocking_Default",
@@ -3347,7 +3347,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "PopupBlocking_Locked",
@@ -3377,7 +3377,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "InstallAddonsPermission_Allow",
@@ -3409,7 +3409,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "InstallAddonsPermission_Default",
@@ -3439,7 +3439,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "CustomizeFirefoxHome",
@@ -3572,7 +3572,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "FlashPlugin_Allow",
@@ -3604,7 +3604,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "FlashPlugin_Block",
@@ -3636,7 +3636,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "FlashPlugin_Default",
@@ -3666,7 +3666,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "FlashPlugin_Locked",
@@ -3696,7 +3696,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "OverrideFirstRunPage",
@@ -3725,7 +3725,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "OverridePostUpdatePage",
@@ -3754,7 +3754,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "PromptForDownloadLocation",
@@ -3783,7 +3783,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "P_DisableSecurityBypass_InvalidCertificate",
@@ -3812,7 +3812,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "P_DisableSecurityBypass_SafeBrowsing",
@@ -3841,7 +3841,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "HomepageURL",
@@ -3885,7 +3885,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "HomepageAdditional",
@@ -3917,7 +3917,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "HomepageStartPage",
@@ -3975,7 +3975,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Homepage_ShowHomeButton",
@@ -4005,7 +4005,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "A_BookmarksOneLine",
@@ -4036,7 +4036,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "A_Bookmarks",
@@ -4065,7 +4065,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Bookmark01",
@@ -4141,7 +4141,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Bookmark02",
@@ -4217,7 +4217,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Bookmark03",
@@ -4293,7 +4293,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Bookmark04",
@@ -4369,7 +4369,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Bookmark05",
@@ -4445,7 +4445,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Bookmark06",
@@ -4521,7 +4521,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Bookmark07",
@@ -4597,7 +4597,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Bookmark08",
@@ -4673,7 +4673,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Bookmark09",
@@ -4749,7 +4749,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Bookmark10",
@@ -4825,7 +4825,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Bookmark11",
@@ -4901,7 +4901,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Bookmark12",
@@ -4977,7 +4977,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Bookmark13",
@@ -5053,7 +5053,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Bookmark14",
@@ -5129,7 +5129,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Bookmark15",
@@ -5205,7 +5205,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Bookmark16",
@@ -5281,7 +5281,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Bookmark17",
@@ -5357,7 +5357,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Bookmark18",
@@ -5433,7 +5433,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Bookmark19",
@@ -5509,7 +5509,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Bookmark20",
@@ -5585,7 +5585,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Bookmark21",
@@ -5661,7 +5661,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Bookmark22",
@@ -5737,7 +5737,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Bookmark23",
@@ -5813,7 +5813,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Bookmark24",
@@ -5889,7 +5889,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Bookmark25",
@@ -5965,7 +5965,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Bookmark26",
@@ -6041,7 +6041,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Bookmark27",
@@ -6117,7 +6117,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Bookmark28",
@@ -6193,7 +6193,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Bookmark29",
@@ -6269,7 +6269,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Bookmark30",
@@ -6345,7 +6345,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Bookmark31",
@@ -6421,7 +6421,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Bookmark32",
@@ -6497,7 +6497,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Bookmark33",
@@ -6573,7 +6573,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Bookmark34",
@@ -6649,7 +6649,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Bookmark35",
@@ -6725,7 +6725,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Bookmark36",
@@ -6801,7 +6801,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Bookmark37",
@@ -6877,7 +6877,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Bookmark38",
@@ -6953,7 +6953,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Bookmark39",
@@ -7029,7 +7029,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Bookmark40",
@@ -7105,7 +7105,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Bookmark41",
@@ -7181,7 +7181,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Bookmark42",
@@ -7257,7 +7257,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Bookmark43",
@@ -7333,7 +7333,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Bookmark44",
@@ -7409,7 +7409,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Bookmark45",
@@ -7485,7 +7485,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Bookmark46",
@@ -7561,7 +7561,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Bookmark47",
@@ -7637,7 +7637,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Bookmark48",
@@ -7713,7 +7713,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Bookmark49",
@@ -7789,7 +7789,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Bookmark50",
@@ -7865,7 +7865,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "PasswordManagerEnabled",
@@ -7894,7 +7894,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "PasswordManagerExceptions",
@@ -7925,7 +7925,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Proxy_Locked",
@@ -7955,7 +7955,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Proxy_ConnectionType",
@@ -8020,7 +8020,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Proxy_HTTPProxy",
@@ -8050,7 +8050,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Proxy_UseHTTPProxyForAllProtocols",
@@ -8080,7 +8080,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Proxy_SSLProxy",
@@ -8110,7 +8110,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Proxy_SOCKSProxy",
@@ -8162,7 +8162,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Proxy_AutoConfigURL",
@@ -8192,7 +8192,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Proxy_Passthrough",
@@ -8222,7 +8222,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Proxy_AutoLogin",
@@ -8252,7 +8252,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Proxy_UseProxyForDNS",
@@ -8282,7 +8282,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "SearchBar",
@@ -8325,7 +8325,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "SearchSuggestEnabled",
@@ -8355,7 +8355,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "B_WebsiteFilter_Block",
@@ -8386,7 +8386,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "B_WebsiteFilter_Exceptions",
@@ -8417,7 +8417,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "WebsiteFilterOneLine",
@@ -8447,7 +8447,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "WebsiteFilter",
@@ -8475,7 +8475,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "SearchEngines_1",
@@ -8583,7 +8583,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "SearchEngines_2",
@@ -8691,7 +8691,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "SearchEngines_3",
@@ -8799,7 +8799,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "SearchEngines_4",
@@ -8907,7 +8907,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "SearchEngines_5",
@@ -9015,7 +9015,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "SearchEngines_Default",
@@ -9045,7 +9045,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "SearchEngines_PreventInstalls",
@@ -9075,7 +9075,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "SearchEngines_Remove",
@@ -9107,7 +9107,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "AppUpdateURL",
@@ -9136,7 +9136,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "SecurityDevices",
@@ -9167,7 +9167,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "RequestedLocales",
@@ -9198,7 +9198,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "RequestedLocalesString",
@@ -9227,7 +9227,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "SSLVersionMin",
@@ -9284,7 +9284,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "SSLVersionMax",
@@ -9341,7 +9341,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "SupportMenu",
@@ -9386,7 +9386,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "accessibility_force_disabled",
@@ -9430,7 +9430,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "app_update_auto",
@@ -9460,7 +9460,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "browser_bookmarks_autoExportHTML",
@@ -9490,7 +9490,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "browser_bookmarks_file",
@@ -9520,7 +9520,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "browser_bookmarks_restore_default_bookmarks",
@@ -9550,7 +9550,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "browser_cache_disk_enable",
@@ -9580,7 +9580,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "browser_fixup_dns_first_for_single_words",
@@ -9610,7 +9610,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "browser_places_importBookmarksHTML",
@@ -9640,7 +9640,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "browser_safebrowsing_phishing_enabled",
@@ -9670,7 +9670,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "browser_safebrowsing_malware_enabled",
@@ -9700,7 +9700,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "browser_slowStartup_notificationDisabled",
@@ -9730,7 +9730,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "browser_search_update",
@@ -9760,7 +9760,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "browser_tabs_warnOnClose",
@@ -9790,7 +9790,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "browser_taskbar_previews_enable",
@@ -9820,7 +9820,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "browser_urlbar_suggest_bookmark",
@@ -9850,7 +9850,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "browser_urlbar_suggest_history",
@@ -9880,7 +9880,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "browser_urlbar_suggest_openpage",
@@ -9910,7 +9910,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "datareporting_policy_dataSubmissionPolicyBypassNotification",
@@ -9940,7 +9940,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "dom_allow_scripts_to_close_windows",
@@ -9970,7 +9970,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "dom_disable_window_flip",
@@ -10000,7 +10000,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "dom_disable_window_move_resize",
@@ -10030,7 +10030,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "dom_event_contextmenu_enabled",
@@ -10060,7 +10060,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "dom_xmldocument_load_enabled",
@@ -10090,7 +10090,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "dom_xmldocument_async_enabled",
@@ -10120,7 +10120,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "extensions_blocklist_enabled",
@@ -10150,7 +10150,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "extensions_getAddons_showPane",
@@ -10180,7 +10180,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "geo_enabled",
@@ -10210,7 +10210,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "intl_accept_languages",
@@ -10240,7 +10240,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "media_eme_enabled",
@@ -10270,7 +10270,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "media_gmp-gmpopenh264_enabled",
@@ -10300,7 +10300,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "media_gmp-widevinecdm_enabled",
@@ -10330,7 +10330,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "network_dns_disableIPv6",
@@ -10360,7 +10360,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "network_IDN_show_punycode",
@@ -10390,7 +10390,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "places_history_enabled",
@@ -10420,7 +10420,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "print_save_print_settings",
@@ -10450,7 +10450,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "security_mixed_content_block_active_content",
@@ -10480,7 +10480,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "security_ssl_errorReporting_enabled",
@@ -10510,7 +10510,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "ui_key_menuAccessKeyFocuses",
@@ -10540,7 +10540,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "browser_cache_disk_parent_directory",
@@ -10570,7 +10570,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "dom_keyboardevent_keypress_hack_dispatch_non_printable_keys_addl",
@@ -10600,7 +10600,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "dom_keyboardevent_keypress_hack_use_legacy_keycode_and_charcode_addl",
@@ -10630,7 +10630,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "security_default_personal_cert",
@@ -10674,7 +10674,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "browser_newtabpage_activity-stream_default_sites",
@@ -10704,7 +10704,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "extensions_htmlaboutaddons_recommendations_enabled",
@@ -10734,7 +10734,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "media_peerconnection_enabled",
@@ -10764,7 +10764,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "media_peerconnection_ice_obfuscate_host_addresses_whitelist",
@@ -10794,7 +10794,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "media_peerconnection_ice_obfuscate_host_addresses_blocklist",
@@ -10824,7 +10824,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "security_osclientcerts_autoload",
@@ -10854,7 +10854,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "security_tls_hello_downgrade_check",
@@ -10884,7 +10884,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "widget_content_gtk-theme-override",
@@ -10914,7 +10914,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "A_SanitizeOnShutdown_Cache",
@@ -10944,7 +10944,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "B_SanitizeOnShutdown_Cookies",
@@ -10974,7 +10974,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "C_SanitizeOnShutdown_Downloads",
@@ -11004,7 +11004,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "D_SanitizeOnShutdown_FormData",
@@ -11034,7 +11034,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "E_SanitizeOnShutdown_History",
@@ -11064,7 +11064,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "F_SanitizeOnShutdown_Sessions",
@@ -11094,7 +11094,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "G_SanitizeOnShutdown_SiteSettings",
@@ -11124,7 +11124,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "H_SanitizeOnShutdown_OfflineApps",
@@ -11154,7 +11154,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "I_SanitizeOnShutdown_Locked",
@@ -11184,7 +11184,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "A_TrackingProtection_Value",
@@ -11214,7 +11214,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "B_TrackingProtection_Cryptomining",
@@ -11244,7 +11244,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "C_TrackingProtection_Fingerprinting",
@@ -11274,7 +11274,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "D_TrackingProtection_Exceptions",
@@ -11306,7 +11306,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "E_TrackingProtection_Locked",
@@ -11336,7 +11336,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "F_TrackingProtection_EmailTracking",
@@ -11366,7 +11366,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "G_TrackingProtection_Category",
@@ -11410,7 +11410,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "H_TrackingProtection_SuspectedFingerprinting",
@@ -11440,7 +11440,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "I_TrackingProtection_BaselineExceptions",
@@ -11470,7 +11470,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "J_TrackingProtection_ConvenienceExceptions",
@@ -11500,7 +11500,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "UserMessaging_WhatsNew",
@@ -11530,7 +11530,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "UserMessaging_ExtensionRecommendations",
@@ -11560,7 +11560,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "UserMessaging_FeatureRecommendations",
@@ -11590,7 +11590,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "UserMessaging_UrlbarInterventions",
@@ -11620,7 +11620,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "UserMessaging_SkipOnboarding",
@@ -11650,7 +11650,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "UserMessaging_MoreFromMozilla",
@@ -11680,7 +11680,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "UserMessaging_FirefoxLabs",
@@ -11710,7 +11710,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "UserMessaging_Locked",
@@ -11740,7 +11740,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "DisabledCiphers_TLS_DHE_RSA_WITH_AES_128_CBC_SHA",
@@ -11770,7 +11770,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "DisabledCiphers_TLS_DHE_RSA_WITH_AES_256_CBC_SHA",
@@ -11800,7 +11800,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "DisabledCiphers_TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA",
@@ -11830,7 +11830,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "DisabledCiphers_TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA",
@@ -11860,7 +11860,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "DisabledCiphers_TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256",
@@ -11890,7 +11890,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "DisabledCiphers_TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256",
@@ -11920,7 +11920,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "DisabledCiphers_TLS_RSA_WITH_AES_128_CBC_SHA",
@@ -11950,7 +11950,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "DisabledCiphers_TLS_RSA_WITH_AES_256_CBC_SHA",
@@ -11980,7 +11980,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "DisabledCiphers_TLS_RSA_WITH_3DES_EDE_CBC_SHA",
@@ -12010,7 +12010,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "DisabledCiphers_TLS_RSA_WITH_AES_128_GCM_SHA256",
@@ -12040,7 +12040,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "DisabledCiphers_TLS_RSA_WITH_AES_256_GCM_SHA384",
@@ -12070,7 +12070,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "DisabledCiphers_TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA",
@@ -12100,7 +12100,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "DisabledCiphers_TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA",
@@ -12130,7 +12130,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "DisabledCiphers_TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384",
@@ -12160,7 +12160,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "DisabledCiphers_TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256",
@@ -12190,7 +12190,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "DisabledCiphers_TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384",
@@ -12220,7 +12220,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "DisabledCiphers_TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256",
@@ -12250,7 +12250,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "DisabledCiphers_TLS_CHACHA20_POLY1305_SHA256",
@@ -12280,7 +12280,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "DisabledCiphers_TLS_AES_128_GCM_SHA256",
@@ -12310,7 +12310,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "DisabledCiphers_TLS_AES_256_GCM_SHA384",
@@ -12340,7 +12340,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "EncryptedMediaExtensions_Enabled",
@@ -12370,7 +12370,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "EncryptedMediaExtensions_Locked",
@@ -12400,7 +12400,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "PDFjs_Enabled",
@@ -12430,7 +12430,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "PDFjs_EnablePermissions",
@@ -12460,7 +12460,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "PictureInPicture_Enabled",
@@ -12490,7 +12490,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "PictureInPicture_Locked",
@@ -12520,7 +12520,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "PrimaryPassword",
@@ -12549,7 +12549,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "HandlersOneLine",
@@ -12579,7 +12579,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Handlers",
@@ -12607,7 +12607,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "PreferencesOneLine",
@@ -12637,7 +12637,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Preferences",
@@ -12665,7 +12665,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "ManagedBookmarksOneLine",
@@ -12695,7 +12695,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "ManagedBookmarks",
@@ -12723,7 +12723,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "AllowedDomainsForApps",
@@ -12752,7 +12752,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "BackgroundAppUpdate",
@@ -12781,7 +12781,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "AutoLaunchProtocolsFromOriginsOneLine",
@@ -12811,7 +12811,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "AutoLaunchProtocolsFromOrigins",
@@ -12839,7 +12839,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "WindowsSSO",
@@ -12868,7 +12868,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "UseSystemPrintDialog",
@@ -12897,7 +12897,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "ExemptDomainFileTypePairsFromFileTypeDownloadWarningsOneLine",
@@ -12927,7 +12927,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "ExemptDomainFileTypePairsFromFileTypeDownloadWarnings",
@@ -12955,7 +12955,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "StartDownloadsInTempDirectory",
@@ -12984,7 +12984,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "GoToIntranetSiteForSingleWordEntryInAddressBar",
@@ -13013,7 +13013,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "AppUpdatePin",
@@ -13042,7 +13042,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "DisableThirdPartyModuleBlocking",
@@ -13071,7 +13071,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "ContainersOneLine",
@@ -13101,7 +13101,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "Containers",
@@ -13129,7 +13129,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "SecurityDevices_Add",
@@ -13161,7 +13161,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "SecurityDevices_Delete",
@@ -13193,7 +13193,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "FirefoxSuggest_WebSuggestions",
@@ -13223,7 +13223,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "FirefoxSuggest_SponsoredSuggestions",
@@ -13253,7 +13253,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "FirefoxSuggest_ImproveSuggest",
@@ -13283,7 +13283,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "FirefoxSuggest_Locked",
@@ -13313,7 +13313,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "PrintingEnabled",
@@ -13342,7 +13342,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "ManualAppUpdateOnly",
@@ -13371,7 +13371,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "AllowFileSelectionDialogs",
@@ -13400,7 +13400,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "AutofillAddressEnabled",
@@ -13429,7 +13429,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "AutofillCreditCardEnabled",
@@ -13458,7 +13458,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "TranslateEnabled",
@@ -13487,7 +13487,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "DisableEncryptedClientHello",
@@ -13516,7 +13516,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "PostQuantumKeyAgreementEnabled",
@@ -13545,7 +13545,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "HttpsOnlyMode",
@@ -13602,7 +13602,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "HttpAllowlist",
@@ -13633,7 +13633,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "PrivateBrowsingModeAvailability",
@@ -13683,7 +13683,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "ContentAnalysis_AgentName",
@@ -13713,7 +13713,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "ContentAnalysis_AgentTimeout",
@@ -13742,7 +13742,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "ContentAnalysis_AllowUrlRegexList",
@@ -13772,7 +13772,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "ContentAnalysis_BypassForSameTabOperations",
@@ -13802,7 +13802,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "ContentAnalysis_ClientSignature",
@@ -13832,7 +13832,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "ContentAnalysis_DefaultResult",
@@ -13883,7 +13883,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "ContentAnalysis_DenyUrlRegexList",
@@ -13913,7 +13913,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "ContentAnalysis_Enabled",
@@ -13943,7 +13943,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "ContentAnalysis_IsPerUser",
@@ -13973,7 +13973,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "ContentAnalysis_PipePathName",
@@ -14003,7 +14003,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "ContentAnalysis_ShowBlockedResult",
@@ -14033,7 +14033,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "ContentAnalysis_InterceptionPoints_Clipboard",
@@ -14065,7 +14065,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "ContentAnalysis_InterceptionPoints_Clipboard_PlainTextOnly",
@@ -14097,7 +14097,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "ContentAnalysis_InterceptionPoints_DragAndDrop",
@@ -14129,7 +14129,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "ContentAnalysis_InterceptionPoints_DragAndDrop_PlainTextOnly",
@@ -14161,7 +14161,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "ContentAnalysis_InterceptionPoints_FileUpload",
@@ -14192,7 +14192,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "ContentAnalysis_InterceptionPoints_Print",
@@ -14223,7 +14223,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "ContentAnalysis_InterceptionPoints_Download",
@@ -14254,7 +14254,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "ContentAnalysis_TimeoutResult",
@@ -14305,7 +14305,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "SkipTermsOfUse",
@@ -14334,7 +14334,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "FirefoxHome_Search",
@@ -14364,7 +14364,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "FirefoxHome_TopSites",
@@ -14394,7 +14394,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "FirefoxHome_SponsoredTopSites",
@@ -14424,7 +14424,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "FirefoxHome_Highlights",
@@ -14454,7 +14454,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "FirefoxHome_Stories",
@@ -14484,7 +14484,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "FirefoxHome_SponsoredStories",
@@ -14514,7 +14514,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "FirefoxHome_Locked",
@@ -14544,7 +14544,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "VisualSearchEnabled",
@@ -14573,7 +14573,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "GenerativeAI_Enabled",
@@ -14603,7 +14603,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "GenerativeAI_Chatbot",
@@ -14633,7 +14633,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "GenerativeAI_LinkPreviews",
@@ -14663,7 +14663,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "GenerativeAI_TabGroups",
@@ -14693,7 +14693,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "GenerativeAI_Locked",
@@ -14723,7 +14723,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "BrowserDataBackup_AllowBackup",
@@ -14753,7 +14753,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "BrowserDataBackup_AllowRestore",
@@ -14783,7 +14783,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     }
   ]
 }

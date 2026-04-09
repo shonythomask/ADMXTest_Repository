@@ -44,7 +44,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "ClientEnvironment_defaults",
@@ -88,7 +88,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "HardwareAcceleration",
@@ -117,7 +117,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "HardwareAcceleration_defaults",
@@ -147,7 +147,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "DownloadPath",
@@ -176,7 +176,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "DownloadPath_defaults",
@@ -206,7 +206,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "HideOnStartup",
@@ -235,7 +235,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "HideOnStartup_defaults",
@@ -265,7 +265,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "DefaultSignInTeam",
@@ -294,7 +294,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "ReleaseChannel",
@@ -337,7 +337,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "ReleaseChannel_defaults",
@@ -381,7 +381,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "AutoUpdate",
@@ -410,7 +410,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "AutoUpdate_defaults",
@@ -440,7 +440,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     }
   ]
 }

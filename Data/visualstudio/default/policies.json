@@ -31,7 +31,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "DisableScreenshotCapture",
@@ -61,7 +61,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "ProductFeedbackDisabled",
@@ -91,7 +91,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "SurveysDisabled",
@@ -121,7 +121,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "RemoveOutOfSupport",
@@ -151,7 +151,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "CachePath",
@@ -181,7 +181,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "BackgroundDownloadDisabled",
@@ -211,7 +211,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "SharedInstallationPath",
@@ -241,7 +241,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "KeepDownloadedPayloads",
@@ -271,7 +271,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "AdministratorUpdatesEnabled",
@@ -344,7 +344,7 @@
         ]
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "AdministratorUpdatesOptOut",
@@ -374,7 +374,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "AdministratorUpdatesNotifications",
@@ -404,7 +404,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "UpdateConfigurationFile",
@@ -434,7 +434,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "DisableRollback",
@@ -464,7 +464,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "HideAvailableTab",
@@ -494,7 +494,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "AllowStandardUserControl",
@@ -567,7 +567,7 @@
         ]
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "UpdateNotificationsOptOut",
@@ -597,7 +597,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "AvailableTabProducts",
@@ -627,7 +627,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "DisableMigrationDialog",
@@ -657,7 +657,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "LiveShareDomainName",
@@ -687,7 +687,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "DirectConnectionMode",
@@ -717,7 +717,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "DisableAnonymousGuests",
@@ -747,7 +747,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "GuestApprovalRequired",
@@ -777,7 +777,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "DisableSharedServer",
@@ -807,7 +807,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "DisableReadWriteTerminal",
@@ -837,7 +837,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "DisableChat",
@@ -867,7 +867,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "TelemetryOptIn",
@@ -897,7 +897,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "IntelliCodeRemoteAnalysisDisabled",
@@ -927,7 +927,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "DisableVisualStudioDevTunnels",
@@ -957,7 +957,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "DisableCopilot",
@@ -987,7 +987,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "DisableCopilotForIndividuals",
@@ -1017,7 +1017,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "DisableAgentMode",
@@ -1047,7 +1047,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     }
   ]
 }

@@ -30,7 +30,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "EnableSettings",
@@ -59,7 +59,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "EnableExperimentalFeatures",
@@ -88,7 +88,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "EnableLocalManifestFiles",
@@ -117,7 +117,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "EnableHashOverride",
@@ -146,7 +146,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "EnableDefaultSource",
@@ -175,7 +175,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "EnableMicrosoftStoreSource",
@@ -204,7 +204,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "SourceAutoUpdateIntervalInMinutes",
@@ -233,7 +233,7 @@
       ],
       "stateValues": {},
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "EnableAdditionalSources",
@@ -273,7 +273,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     },
     {
       "policyId": "EnableAllowedSources",
@@ -313,7 +313,7 @@
         }
       },
       "templateVersion": "default",
-      "lastUpdated": "2026-04-03"
+      "lastUpdated": "2026-04-09"
     }
   ]
 }
