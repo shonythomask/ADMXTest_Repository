@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <!-- SEO Meta Tags -->
+  <title>ADMX Guide – Windows Administrative Template Policy Reference</title>
+  <meta name="description" content="Browse and search Windows Administrative Template (ADMX/ADML) Group Policy settings for Microsoft 365, Edge, Chrome, Firefox, and Citrix — with registry paths and implementation details." />
+  <meta name="keywords" content="ADMX, ADML, Group Policy, Windows, Microsoft Intune, Administrative Templates, registry settings, GPO, MDM" />
+  <meta name="robots" content="index, follow" />
+  <link rel="canonical" href="https://admxguide.com/" />
+
+  <!-- Open Graph (for social sharing) -->
+  <meta property="og:title" content="ADMX Guide – Windows Administrative Template Policy Reference" />
+  <meta property="og:description" content="Browse and search ADMX/ADML Group Policy settings for Microsoft 365, Edge, Chrome, Firefox, and Citrix with registry paths." />
+  <meta property="og:url" content="https://admxguide.com/" />
+  <meta property="og:type" content="website" />
+
+  <!-- Structured Data -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "ADMX Guide",
+    "url": "https://admxguide.com",
+    "description": "Independent reference platform for Windows Administrative Template (ADMX/ADML) Group Policy settings.",
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": "https://admxguide.com/?q={search_term_string}",
+      "query-input": "required name=search_term_string"
+    }
+  }
+  </script>
+
+  <link rel="stylesheet" href="style.css" />
+
+  <style>
+    /* HEADER */
+    .top-bar { background: linear-gradient(90deg, #0f4c81, #005fa3) !important; padding: 14px 26px; display: flex; justify-content: space-between; align-items: center !important; box-shadow: 0 2px 8px rgba(0,0,0,0.1); position: sticky; top: 0; z-index: 1000; }
+    .top-bar a { text-decoration: none; }
+    .logo { color: #ffffff !important; font-weight: 600; font-size: 18px; }
+    .logo:hover { opacity: 0.9; }
+    .main-nav { display: flex; gap: 22px; margin-top: 0 !important; }
+    .main-nav a { color: #e6edf6 !important; font-size: 14px; font-weight: 500; }
+    .main-nav a:hover { color: #ffffff !important; }
+
+    /* HERO */
+    .hero { background: linear-gradient(135deg, #0f4c81, #2563eb); color: #fff; text-align: center; padding: 60px 24px 50px; }
+    .hero h1 { font-size: 2.2rem; font-weight: 700; color: #fff; margin-bottom: 14px; letter-spacing: 0.3px; }
+    .hero p { font-size: 1.05rem; color: rgba(255,255,255,0.88); max-width: 640px; margin: 0 auto 28px; }
+    .hero-label { display: inline-block; background: rgba(255,255,255,0.15); border: 1px solid rgba(255,255,255,0.3); color: #fff; font-size: 13px; padding: 6px 14px; border-radius: 20px; margin-bottom: 20px; letter-spacing: 0.5px; }
+
+    /* SECTION TITLES */
+    .section-title { text-align: center; font-size: 1.4rem; color: #1f2937; margin: 48px 0 8px; font-weight: 600; }
+    .section-subtitle { text-align: center; font-size: 15px; color: #6b7280; margin-bottom: 28px; }
+
+    /* APP GRID */
+    .app-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 24px; padding: 0 40px 50px; max-width: 1100px; margin: 0 auto; }
+    .app-tile { display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 10px; padding: 32px 20px; background: linear-gradient(135deg, #0f4c81, #2563eb); color: #ffffff; text-align: center; font-size: 16px; font-weight: 600; border-radius: 12px; text-decoration: none; transition: 0.25s ease; box-shadow: 0 8px 20px rgba(0,0,0,0.12); }
+    .app-tile:hover { transform: translateY(-4px); box-shadow: 0 12px 30px rgba(0,0,0,0.2); }
+    .app-tile img { width: 52px; height: 52px; object-fit: contain; }
+
+    /* ABOUT */
+    .about-section { max-width: 900px; margin: 0 auto 40px; padding: 0 24px; }
+    .about-tile { background: #ffffff; border-radius: 12px; border: 1px solid #e5e7eb; box-shadow: 0 6px 18px rgba(0,0,0,0.05); padding: 36px; }
+    .about-tile h2 { font-size: 1.3rem; color: #1f2937; border-left: 4px solid #2563eb; padding-left: 12px; margin-bottom: 16px; }
+    .about-tile p { font-size: 15px; color: #444; margin-bottom: 14px; }
+    .feature-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 16px; margin-top: 24px; }
+    .feature-card { background: #f8fafc; border: 1px solid #e5e7eb; border-radius: 8px; padding: 18px; }
+    .feature-card h3 { font-size: 0.95rem; color: #1f2937; margin-bottom: 6px; }
+    .feature-card p { font-size: 13px; color: #6b7280; margin: 0; }
+
+    /* FAQ */
+    .faq-section { max-width: 900px; margin: 0 auto 48px; padding: 0 24px; }
+    .faq-section h2 { font-size: 1.3rem; color: #1f2937; border-left: 4px solid #2563eb; padding-left: 12px; margin-bottom: 20px; font-weight: 600; }
+    .faq-item { border-bottom: 1px solid #e5e7eb; padding: 16px 0; }
+    .faq-item h3 { font-size: 15px; color: #1f2937; margin-bottom: 6px; font-weight: 600; }
+    .faq-item p { font-size: 14px; color: #555; margin: 0; }
+
+    /* FOOTER */
+    #footerBar { position: relative; background: #f1f5f9; color: #666; font-size: 12px; padding: 16px 18px; border-top: 1px solid #e5e7eb; text-align: center; }
+    #footerBar a { color: #2563eb; text-decoration: none; margin: 0 8px; }
+    #footerBar a:hover { text-decoration: underline; }
+  </style>
+</head>
+<body class="home-page">
+
+  <!-- HEADER -->
+  <div class="top-bar">
+    <a class="logo" href="index.html">ADMX Guide</a>
+    <nav class="main-nav">
+      <a href="index.html">Home</a>
+      <a href="about.html">About</a>
+      <a href="contact.html">Contact</a>
+      <a href="privacy-policy.html">Privacy Policy</a>
+    </nav>
+  </div>
+
+  <!-- HERO -->
+  <section class="hero">
+    <span class="hero-label">🛡️ Independent ADMX Reference</span>
+    <h1>Windows Administrative Template<br>Policy Reference</h1>
+    <p>Browse, search, and understand ADMX/ADML Group Policy settings for enterprise applications — complete with registry paths and implementation details.</p>
+  </section>
+
+  <!-- APP TILES -->
+  <h2 class="section-title">Browse by Application</h2>
+  <p class="section-subtitle">Select an application to explore its Administrative Template policies.</p>
+
+  <div class="app-grid">
+    <a href="apps/office.html" class="app-tile">
+      <img src="images/microsoft365.png" alt="Microsoft 365 logo" />
+      Microsoft 365
+    </a>
+    <a href="apps/edge.html" class="app-tile">
+      <img src="images/edge.png" alt="Microsoft Edge logo" />
+      Microsoft Edge
+    </a>
+    <a href="apps/chrome.html" class="app-tile">
+      <img src="images/chrome.png" alt="Google Chrome logo" />
+      Google Chrome
+    </a>
+    <a href="apps/mozila.html" class="app-tile">
+      <img src="images/firefox.png" alt="Mozilla Firefox logo" />
+      Mozilla Firefox
+    </a>
+    <a href="apps/citrix.html" class="app-tile">
+      <img src="images/citrix.png" alt="Citrix logo" />
+      Citrix
+    </a>
+  </div>
+
+  <!-- ABOUT SECTION -->
+  <section class="about-section" id="about">
+    <div class="about-tile">
+      <h2>What is ADMX Guide?</h2>
+      <p><strong>ADMX Guide</strong> is a free, independent reference platform for Windows Administrative Template (ADMX/ADML) policies. These policies are used by system administrators to configure security, behaviour, and features across Windows, Microsoft 365, browsers, and enterprise applications using Group Policy, Microsoft Intune, and other device management platforms.</p>
+      <p>The goal of this site is to make policy definitions easy to browse, understand, and implement — presenting them in a clean, searchable interface with direct visibility into their underlying registry settings.</p>
+
+      <div class="feature-grid">
+        <div class="feature-card">
+          <h3>🔍 Searchable Interface</h3>
+          <p>Quickly find any policy by name or keyword without scrolling through lengthy documentation.</p>
+        </div>
+        <div class="feature-card">
+          <h3>⚙️ Registry Paths</h3>
+          <p>View the exact registry keys and values behind each policy — essential for Intune and manual deployments.</p>
+        </div>
+        <div class="feature-card">
+          <h3>📋 Policy Details</h3>
+          <p>Understand supported values, data types, and descriptions for every available setting.</p>
+        </div>
+        <div class="feature-card">
+          <h3>🏢 Enterprise Ready</h3>
+          <p>Covers Group Policy, Microsoft Intune, and other MDM platforms used in enterprise environments.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- FAQ SECTION -->
+  <section class="faq-section">
+    <h2>Frequently Asked Questions</h2>
+    <div class="faq-item">
+      <h3>What are ADMX files?</h3>
+      <p>ADMX files are XML-based Administrative Template files used by Windows Group Policy to define configurable settings for operating systems and applications. They replaced the older ADM format and are used with tools like the Group Policy Management Console (GPMC) and Microsoft Intune.</p>
+    </div>
+    <div class="faq-item">
+      <h3>Who is ADMX Guide for?</h3>
+      <p>ADMX Guide is designed for IT professionals, system administrators, security engineers, and anyone who manages Windows environments using Group Policy or Microsoft Intune. It is also useful for auditors who need to review policy configurations.</p>
+    </div>
+    <div class="faq-item">
+      <h3>Is ADMX Guide affiliated with Microsoft?</h3>
+      <p>No. ADMX Guide is an independent, community-built reference platform. It is not affiliated with, endorsed by, or sponsored by Microsoft or any other company whose products are referenced on this site.</p>
+    </div>
+    <div class="faq-item">
+      <h3>How do I use these policies with Microsoft Intune?</h3>
+      <p>Policies listed on ADMX Guide can be deployed via Intune using either the Settings Catalog or custom OMA-URI configurations. The registry path shown for each policy corresponds directly to the OMA-URI path used in Intune custom profiles.</p>
+    </div>
+    <div class="faq-item">
+      <h3>How often is the content updated?</h3>
+      <p>We aim to keep policy definitions up to date with the latest ADMX template releases from Microsoft and other vendors. If you spot an outdated or incorrect entry, please use our <a href="contact.html">Contact page</a> to let us know.</p>
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer id="footerBar">
+    <div>
+      <a href="about.html">About</a>
+      <a href="contact.html">Contact</a>
+      <a href="privacy-policy.html">Privacy Policy</a>
+    </div>
+    <div style="margin-top:8px;">
+      ADMX Guide – Independent Administrative Template Reference &nbsp;|&nbsp; Microsoft, Windows, and related names are trademarks of Microsoft Corporation. This site is not affiliated with or endorsed by Microsoft.
+    </div>
+  </footer>
+
+
+<!-- ── COOKIE CONSENT BANNER ── -->
+<div id="cookie-banner" style="display:none;position:fixed;bottom:0;left:0;right:0;z-index:9999;background:linear-gradient(90deg,#0f4c81,#005fa3);color:#fff;padding:14px 24px;display:flex;align-items:center;justify-content:space-between;gap:16px;box-shadow:0 -2px 12px rgba(0,0,0,0.15);font-family:'Segoe UI',Arial,sans-serif;font-size:13.5px;flex-wrap:wrap;">
+  <span style="flex:1;min-width:200px;">🍪 We use cookies to improve your experience and serve relevant ads. By continuing to use this site, you accept our use of cookies. <a href="/privacy-policy.html" style="color:#93c5fd;text-decoration:underline;">Learn more</a></span>
+  <button onclick="acceptCookies()" style="background:#ffffff;color:#0f4c81;border:none;padding:9px 22px;border-radius:6px;font-size:13px;font-weight:700;cursor:pointer;white-space:nowrap;box-shadow:0 2px 6px rgba(0,0,0,0.15);">Accept</button>
+</div>
+<script>
+  function acceptCookies() {
+    localStorage.setItem('cookieConsent', 'accepted');
+    document.getElementById('cookie-banner').style.display = 'none';
+  }
+  (function() {
+    if (localStorage.getItem('cookieConsent') !== 'accepted') {
+      document.getElementById('cookie-banner').style.display = 'flex';
+    }
+  })();
+</script>
+</body>
+</html>
